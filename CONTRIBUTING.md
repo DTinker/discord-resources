@@ -1,4 +1,4 @@
-This resource was made by the Beautiful Discord community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/beautiful-discord-community/themes/graphs/contributors).
+This resource was made by the Beautiful Discord community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/beautiful-discord-community/resources/graphs/contributors).
 
 
 # Contribution Guidelines
@@ -13,7 +13,7 @@ This resource was made by the Beautiful Discord community and wouldn't be possib
 
 Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
 
-If you removed our PR template you can find it [here](https://github.com/beautiful-discord-community/themes/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
+If you removed our PR template you can find it [here](https://github.com/beautiful-discord-community/resources/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
 
 ## Reporting issues
 

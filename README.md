@@ -1,13 +1,18 @@
-# Beautiful Discord Community - Themes [![Build Status](https://travis-ci.org/beautiful-discord-community/themes.svg?branch=master)](https://travis-ci.org/beautiful-discord-community/themes)
+# Beautiful Discord Community - Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/beautiful-discord-community/resources)
 
-A curated list of awesome Beautiful Discord Themes. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome Beautiful Discord resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/beautiful-discord-community/themes/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/beautiful-discord-community/themes/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/beautiful-discord-community/resources/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/beautiful-discord-community/resources/graphs/contributors); you rock!
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
+
+### Contents
+
+- [Beautiful Discord Community - Resources](#beautiful-discord-community---themes-)
+    - [Themes](#themes)
 
 ## Themes
 
