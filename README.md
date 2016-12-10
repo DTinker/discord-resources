@@ -13,10 +13,17 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 - [Beautiful Discord Community - Resources](#beautiful-discord-community---themes-)
     - [Themes](#themes)
+    - [Useful snippets](#useful-snippets)
+- [Template](#template)
 
 ## Themes
 
 * [AlexFlipnote/Discord_MaterialTheme](https://github.com/AlexFlipnote/Discord_MaterialTheme) - CSS that makes your Discord much better to look at [Embed](https://cdn.rawgit.com/AlexFlipnote/Discord_MaterialTheme/master/theme.css)
+
+## Useful snippets
+
+* [jakeoid/discord-emoji-anim](https://github.com/jakeoid/discord-emoji-anim) - 😄 Adds some basic animations for Emoji that are inside of your Discord client. [Embed](https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css)
+
 
 ## Template
 
