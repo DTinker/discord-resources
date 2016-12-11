@@ -22,6 +22,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **Screenshots:** [Codeblocks](https://owo.whats-th.is/8a0d03.png), [General](https://owo.whats-th.is/66a974.png)
 - [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
     - **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
+- [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit) - A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-SpacegrayEdit/master/spacegray-edit.css)
+    - **Screenshots:** [Codeblocks](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-code.png), [General](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-all.png)
 
 
 ## Useful snippets
@@ -34,6 +36,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **examples:** [mp4](https://owo.whats-th.is/193994.mp4), [animated gif](https://owo.whats-th.is/cb7afb.gif)
 - [ovyerus/discord-buttons-round.css](https://gist.github.com/Ovyerus/5574873c0725a8600150b5d963b20dcc) - Edits the account and voice panel buttons to be a pill shape and no dividers. [Embed](https://cdn.rawgit.com/Ovyerus/5574873c0725a8600150b5d963b20dcc/raw/b58568d1575f32333eacbfe5fc95c1701bcb516c/discord-buttons-round.css)
     - **example:** [preview](http://i.imgur.com/D9YoTGI.gif)
+- [LUModder/Discord-ThemeSniplets/classic-embeds.css] - Classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/classic-embeds.css)
+    - **example:** [preview](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/classic-embeds.png)
 
 ## Template
 
