@@ -1,4 +1,4 @@
-# Beautiful Discord Community - Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/beautiful-discord-community/resources)
+# Beautiful Discord Community - Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/beautiful-discord-community/resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
 
 A curated list of awesome Beautiful Discord resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
