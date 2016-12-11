@@ -24,6 +24,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Useful snippets
 
+- [bubbie/discord-old-profile](https://github.com/bubbie/discord-old-profile) - Re-introduces the old user profile before it became all white and ugly :D [Embed](https://cdn.rawgit.com/bubbie/discord-old-profile/master/stylesheet.css)
+    - **example:** [image](https://owo.whats-th.is/ba3f27.png)
 - [jakeoid/disccord](https://github.com/jakeoid/disccord) - adds the kikke, banne, mutte, deaffe, delette options to your discord client. [Embed](https://cdn.rawgit.com/jakeoid/disccord/master/disccord.css)
     - **example:** [right click menu](https://owo.whats-th.is/7da9ea.png)
 - [jakeoid/discord-emoji-anim](https://github.com/jakeoid/discord-emoji-anim) - 😄 Adds some basic animations for Emoji that are inside of your Discord client. [Embed](https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css)
