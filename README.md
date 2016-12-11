@@ -24,8 +24,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Useful snippets
 
-* [jakeoid/disccord](https://github.com/jakeoid/disccord) - adds the kikke, banne, mutte, deaffe, delette options to your discord client. [Embed](https://cdn.rawgit.com/jakeoid/disccord/master/disccord.css)
-* [jakeoid/discord-emoji-anim](https://github.com/jakeoid/discord-emoji-anim) - 😄 Adds some basic animations for Emoji that are inside of your Discord client. [Embed](https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css)
+- [jakeoid/disccord](https://github.com/jakeoid/disccord) - adds the kikke, banne, mutte, deaffe, delette options to your discord client. [Embed](https://cdn.rawgit.com/jakeoid/disccord/master/disccord.css)
+    - **example:** [right click menu](https://owo.whats-th.is/7da9ea.png)
+- [jakeoid/discord-emoji-anim](https://github.com/jakeoid/discord-emoji-anim) - 😄 Adds some basic animations for Emoji that are inside of your Discord client. [Embed](https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css)
+    - **examples:** [mp4](https://owo.whats-th.is/193994.mp4), [animated gif](https://owo.whats-th.is/d8ef5d.gif)
 
 ## Template
 
