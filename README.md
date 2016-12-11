@@ -38,8 +38,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [preview](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/classic-embeds.png)
 - [ovyerus/discord-buttons-round.css](https://gist.github.com/Ovyerus/5574873c0725a8600150b5d963b20dcc) - Edits the account and voice panel buttons to be a pill shape and no dividers. [Embed](https://cdn.rawgit.com/Ovyerus/5574873c0725a8600150b5d963b20dcc/raw/b58568d1575f32333eacbfe5fc95c1701bcb516c/discord-buttons-round.css)
     - **example:** [preview](http://i.imgur.com/D9YoTGI.gif)
+- [PikaDude/Discord-Fade-Anims](https://github.com/PikaDude/Discord-Fade-Anims) - Adds fading animations to almost everything in Discord. [Embed](https://cdn.rawgit.com/PikaDude/Discord-Fade-Anims/master/Discord-Fade-Anims.css)
+    - **example:** [channel change](https://owo.whats-th.is/0ac076.gif), [user profile](https://owo.whats-th.is/f68cfb.gif)
 - [TriggerRimfire/discord-avatar-shadow.css](https://gist.github.com/TriggerRimfire/48b3303f4032fffd952c108260a059a4) - Adds a slight shadow effect to avatars. (more noticeable on themes with opacity) [Embed](https://cdn.rawgit.com/TriggerRimfire/48b3303f4032fffd952c108260a059a4/raw/1ff0f952a436a3e2b11ef2be4e3f67cd071a2d6b/discord-avatar-shadow.css)
     - **example:** [preview](https://a.pomf.cat/rlndis.png)
+    
 
 
 ## Template
