@@ -33,4 +33,4 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Template
 
-`* [username/repo_name](link_to_repo) - short_description [Emebd](https://cdn.rawgit.com/...)`
+`* [username/repo_name](link_to_repo) - short_description [Embed](https://cdn.rawgit.com/...)`
