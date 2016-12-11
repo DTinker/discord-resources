@@ -24,8 +24,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Useful snippets
 
+* [jakeoid/disccord](https://github.com/jakeoid/disccord) - adds the kikke, banne, mutte, deaffe, delette options to your discord client. [Embed](https://cdn.rawgit.com/jakeoid/disccord/master/disccord.css)
 * [jakeoid/discord-emoji-anim](https://github.com/jakeoid/discord-emoji-anim) - 😄 Adds some basic animations for Emoji that are inside of your Discord client. [Embed](https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css)
-
 
 ## Template
 
