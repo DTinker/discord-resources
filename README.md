@@ -40,6 +40,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [preview](http://i.imgur.com/D9YoTGI.gif)
 - [TriggerRimfire/discord-avatar-shadow.css](https://gist.github.com/TriggerRimfire/48b3303f4032fffd952c108260a059a4) - Adds a slight shadow effect to avatars. (more noticeable on themes with opacity) [Embed](https://cdn.rawgit.com/TriggerRimfire/48b3303f4032fffd952c108260a059a4/raw/1ff0f952a436a3e2b11ef2be4e3f67cd071a2d6b/discord-avatar-shadow.css)
     - **example:** [preview](https://a.pomf.cat/rlndis.png)
+
+
 ## Template
 
 `* [username/repo_name](link_to_repo) - short_description [Embed](https://cdn.rawgit.com/...)`
