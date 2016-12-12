@@ -1,6 +1,6 @@
 # Beautiful Discord Community - Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/beautiful-discord-community/resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
 
-A curated list of awesome Beautiful Discord resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome [Beautiful Discord](https://github.com/leovoel/BeautifulDiscord) resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
@@ -20,8 +20,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 - [AlexFlipnote/Discord_MaterialTheme](https://github.com/AlexFlipnote/Discord_MaterialTheme) - CSS that makes your Discord much better to look at [Embed](https://cdn.rawgit.com/AlexFlipnote/Discord_MaterialTheme/master/theme.css)
     - **Screenshots:** [Codeblocks](https://owo.whats-th.is/8a0d03.png), [General](https://owo.whats-th.is/66a974.png)
-- [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK.(https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
-    - **example:** [preview](https://github.com/jakeoid/Discord-Adapta/blob/master/jake_screenshot.png?raw=true)
+- [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
+    - **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
+
+>>>>>>> origin/master
 
 ## Useful snippets
 
