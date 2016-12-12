@@ -25,8 +25,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK.(https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
     - **example:** [preview](https://github.com/jakeoid/Discord-Adapta/blob/master/jake_screenshot.png?raw=true)
 
->>>>>>> origin/master
-
 ## Useful snippets
 
 - [bubbie/discord-old-profile](https://github.com/bubbie/discord-old-profile) - Re-introduces the old user profile before it became all white and ugly :D [Embed](https://cdn.rawgit.com/bubbie/discord-old-profile/master/stylesheet.css)
