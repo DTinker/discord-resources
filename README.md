@@ -45,7 +45,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [channel change](https://owo.whats-th.is/0ac076.gif), [user profile](https://owo.whats-th.is/f68cfb.gif)
 - [TriggerRimfire/discord-avatar-shadow.css](https://gist.github.com/TriggerRimfire/48b3303f4032fffd952c108260a059a4) - Adds a slight shadow effect to avatars. (more noticeable on themes with opacity) [Embed](https://cdn.rawgit.com/TriggerRimfire/48b3303f4032fffd952c108260a059a4/raw/1ff0f952a436a3e2b11ef2be4e3f67cd071a2d6b/discord-avatar-shadow.css)
     - **example:** [preview](https://a.pomf.cat/rlndis.png)
-
+- [TripingPC/discord-CSSes](https://github.com/TripingPC/discord-CSSes/blob/master/status-user-popout.css) - Applies various tweaks including a custom playing prefix, bigger nicknames and status-based background-color for user popout headers. [Embed](https://raw.githubusercontent.com/TripingPC/discord-CSSes/master/status-user-popout.css)
+    - **example:** [image](http://i.imgur.com/eJc5Eiu.png)
 
 
 ## Template
