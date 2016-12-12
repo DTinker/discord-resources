@@ -2,6 +2,7 @@
 
 A curated list of awesome [Beautiful Discord](https://github.com/leovoel/BeautifulDiscord) resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
+This project attempts to make end-user life easier by requiring contributors to add working `@import`able Embed links.
 
 ### Contributing
 
