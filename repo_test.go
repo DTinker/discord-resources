@@ -2,17 +2,21 @@ package repo
 
 import (
 	"bytes"
+	"fmt"
 	"io/ioutil"
-	"log"
 	"sort"
 	"strings"
 	"testing"
 
+	"net/http"
+	"time"
+
 	"github.com/PuerkitoBio/goquery"
+	"github.com/aymerick/douceur/parser"
 	"github.com/russross/blackfriday"
 )
 
-func TestAlpha(t *testing.T) {
+func TestAlphaAndEmbed(t *testing.T) {
 	query := startQuery()
 
 	query.Find("body > ul").Each(func(_ int, s *goquery.Selection) {
@@ -27,14 +31,11 @@ func TestDuplicatedLinks(t *testing.T) {
 	query.Find("body  a").Each(func(_ int, s *goquery.Selection) {
 		href, ok := s.Attr("href")
 		if !ok {
-			log.Printf("expected '%s' href", s)
-			t.Fail()
+			t.Errorf("expected '%s' to have href", s.Text())
 		}
 
 		if links[href] {
-			log.Printf("duplicated link '%s'", href)
-			t.Fail()
-			return
+			t.Fatalf("duplicated link '%s'", href)
 		}
 
 		links[href] = true
@@ -46,7 +47,15 @@ func testList(t *testing.T, list *goquery.Selection) {
 		testList(t, items)
 		items.RemoveFiltered("ul")
 	})
-	checkAlphabeticOrder(t, list)
+
+	cat := list.Prev().Text()
+
+	t.Run(fmt.Sprintf("order of [%s]", cat), func(t *testing.T) {
+		checkAlphabeticOrder(t, list)
+	})
+	t.Run(fmt.Sprintf("embeds in [%s]", cat), func(t *testing.T) {
+		checkEmbeds(t, list)
+	})
 }
 
 func readme() []byte {
@@ -80,8 +89,59 @@ func checkAlphabeticOrder(t *testing.T, s *goquery.Selection) {
 
 	for k, item := range items {
 		if item != sorted[k] {
-			log.Printf("expected '%s' but actual is '%s'", sorted[k], item)
-			t.Fail()
+			t.Errorf("expected '%s' but actual is '%s'", sorted[k], item)
 		}
+	}
+	if t.Failed() {
+		t.Logf("expected order is:\n%s", strings.Join(sorted, "\n"))
+	}
+}
+
+func checkEmbeds(t *testing.T, s *goquery.Selection) {
+	s.Find("li > a:first-child").Each(func(idx int, li *goquery.Selection) {
+		repourl, _ := li.Attr("href")
+		if strings.Contains(repourl, "#") {
+			return
+		}
+		t.Run(fmt.Sprintf("embed for [%s]", li.Text()), func(t *testing.T) {
+			checkEmbed(t, li.Parent().Find("a").Next())
+		})
+	})
+}
+
+var (
+	httpClient = &http.Client{
+		Timeout: 20 * time.Second,
+	}
+)
+
+func checkEmbed(t *testing.T, embed *goquery.Selection) {
+	if embed.Text() != "Embed" {
+		t.Errorf("expected 'Embed' but actual is '%v'", embed)
+	}
+	url, ok := embed.Attr("href")
+	if !ok {
+		t.Fatalf("expected a url to an embed")
+	}
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		t.Fatalf("failed to make request to %s: %s", url, err.Error())
+	}
+	rsp, err := httpClient.Do(req)
+	defer rsp.Body.Close()
+	if err != nil {
+		t.Fatalf("failed to perform request to %s: %s", url, err.Error())
+	}
+	conttype := rsp.Header.Get("Content-Type")
+	if !strings.Contains(conttype, "text/css") {
+		t.Fatalf("expected content type to contain 'text/css' but actual is '%s' ", conttype)
+	}
+	body, err := ioutil.ReadAll(rsp.Body)
+	if err != nil {
+		t.Fatalf("failed to obtain content: %s", err.Error())
+	}
+	_, err = parser.Parse(string(body))
+	if err != nil {
+		t.Errorf("css validation of embed failed: %s", err.Error())
 	}
 }
