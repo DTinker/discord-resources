@@ -3,7 +3,7 @@ This resource was made by the Beautiful Discord community and wouldn't be possib
 
 # Contribution Guidelines
 
-- **To add, remove, or change things on the list:** Submit a pull request
+**To add, remove, or change things on the list:** Submit a pull request
 
 - List items should be sorted *alphabetically*.
 - Each item should be limited to one link
