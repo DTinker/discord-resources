@@ -23,12 +23,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **Screenshots:** [Codeblocks](https://owo.whats-th.is/8a0d03.png), [General](https://owo.whats-th.is/66a974.png)
 - [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK. [Embed](https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
     - **Screenshots:** [Preview](https://github.com/jakeoid/Discord-Adapta/blob/master/jake_screenshot.png?raw=true)
+- [LewisTehMinerz/BootyfulDiscord](https://github.com/LewisTehMinerz/BootyfulDiscord) - A collection of things. | Theme based on TheBITLINK's Discord-Adapta, including most of the snippets. [Embed](https://cdn.rawgit.com/LewisTehMinerz/BootyfulDiscord/master/BootyfulDiscord.theme.css)
+    - **Screenshots/Videos:** [General](https://owo.whats-th.is/4448cd.png) [Text Animations](https://owo.whats-th.is/1b5cfa.mp4) [Server/Channel Switching Animations](https://owo.whats-th.is/413259.mp4) [Other Animations](https://owo.whats-th.is/6838d3.mp4)
 - [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit) - A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-SpacegrayEdit/master/spacegray-edit.css)
     - **Screenshots:** [Codeblocks](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-code.png), [General](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-all.png)
 - [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
     - **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
-- [LewisTehMinerz/BootyfulDiscord](https://github.com/LewisTehMinerz/BootyfulDiscord) - A collection of things. | Theme based on TheBITLINK's Discord-Adapta, including most of the snippets. [Embed](https://cdn.rawgit.com/LewisTehMinerz/BootyfulDiscord/master/BootyfulDiscord.theme.css)
-    - **Screenshots/Videos:** [General](https://owo.whats-th.is/4448cd.png) [Text Animations](https://owo.whats-th.is/1b5cfa.mp4) [Server/Channel Switching Animations](https://owo.whats-th.is/413259.mp4) [Other Animations](https://owo.whats-th.is/6838d3.mp4)
 
 ## Useful snippets
 
