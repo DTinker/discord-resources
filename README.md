@@ -36,6 +36,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [right click menu](https://owo.whats-th.is/7da9ea.png)
 - [jakeoid/discord-emoji-anim](https://github.com/jakeoid/discord-emoji-anim) - Adds some basic animations for Emoji that are inside of your Discord client. [Embed](https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css)
     - **examples:** [mp4](https://owo.whats-th.is/193994.mp4), [animated gif](https://owo.whats-th.is/cb7afb.gif)
+- [jakeoid/semi-monokai.css](https://gist.github.com/jakeoid/33a608c852bf890e361523d245664882) - Adds the basic compatability for monokai formatting inside of Discord. [Embed](https://rawgit.com/jakeoid/33a608c852bf890e361523d245664882/raw/47c999e5c9b12cdf20d7d946f9b3493eff8eae1d/semi-monokai.css)
+    - **examples:** [preview](https://owo.whats-th.is/090944.png)
 - [LUModder/Discord-ThemeSniplets/classic-embeds.css](https://github.com/LUModder/Discord-ThemeSniplets/blob/master/classic-embeds.css) - Classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/classic-embeds.css)
     - **example:** [preview](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/classic-embeds.png)
 - [ovyerus/discord-buttons-round.css](https://gist.github.com/Ovyerus/5574873c0725a8600150b5d963b20dcc) - Edits the account and voice panel buttons to be a pill shape and no dividers. [Embed](https://cdn.rawgit.com/Ovyerus/5574873c0725a8600150b5d963b20dcc/raw/b58568d1575f32333eacbfe5fc95c1701bcb516c/discord-buttons-round.css)
