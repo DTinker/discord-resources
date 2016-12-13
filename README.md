@@ -27,6 +27,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **Screenshots:** [Codeblocks](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-code.png), [General](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-all.png)
 - [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
     - **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
+- [LewisTehMinerz/BootyfulDiscord](https://github.com/LewisTehMinerz/BootyfulDiscord) - A collection of things. | Theme based on TheBITLINK's Discord-Adapta, including most of the snippets. [Embed](https://cdn.rawgit.com/LewisTehMinerz/BootyfulDiscord/master/BootyfulDiscord.theme.css)
+    - **Screenshots/Videos:** [General](https://owo.whats-th.is/4448cd.png) [Text Animations](https://owo.whats-th.is/1b5cfa.mp4) [Server/Channel Switching Animations](https://owo.whats-th.is/413259.mp4) [Other Animations](https://owo.whats-th.is/6838d3.mp4)
 
 ## Useful snippets
 
