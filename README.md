@@ -40,7 +40,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **examples:** [mp4](https://owo.whats-th.is/193994.mp4), [animated gif](https://owo.whats-th.is/cb7afb.gif)
 - [jakeoid/semi-monokai.css](https://gist.github.com/jakeoid/33a608c852bf890e361523d245664882) - Adds the basic compatability for monokai formatting inside of Discord. [Embed](https://rawgit.com/jakeoid/33a608c852bf890e361523d245664882/raw/47c999e5c9b12cdf20d7d946f9b3493eff8eae1d/semi-monokai.css)
     - **examples:** [preview](https://owo.whats-th.is/090944.png)
-- [kanadeko/auto-hide-servers-osx](https://gist.github.com/kanadeko/20cabf6dfe4b581c39b275a02476c4b6) - Auto hides the server list and makes it appear again on hover. Also moves notifications/badges to the left.
+- [kanadeko/auto-hide-servers-osx](https://gist.github.com/kanadeko/20cabf6dfe4b581c39b275a02476c4b6) - Auto hides the server list and makes it appear again on hover. Also moves notifications/badges to the left. [Embed](https://cdn.rawgit.com/kanadeko/20cabf6dfe4b581c39b275a02476c4b6/raw/a64cb736742b75fc9fdd8f88d4ab7f701bac19aa/auto-hide-servers-osx.css)
     - **example:** [animated](https://gfycat.com/WeepyAjarFulmar)
 - [LUModder/Discord-ThemeSniplets/classic-embeds.css](https://github.com/LUModder/Discord-ThemeSniplets/blob/master/classic-embeds.css) - Classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/classic-embeds.css)
     - **example:** [preview](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/classic-embeds.png)
