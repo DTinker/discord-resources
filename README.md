@@ -44,6 +44,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [animated](https://gfycat.com/SentimentalDaringKouprey)
 - [LUModder/Discord-ThemeSniplets/classic-embeds.css](https://github.com/LUModder/Discord-ThemeSniplets/blob/master/classic-embeds.css) - Classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/classic-embeds.css)
     - **example:** [preview](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/classic-embeds.png)
+- [LUModder/Discord-ThemeSniplets/transparent-base.css](https://github.com/LUModder/Discord-ThemeSniplets/blob/master/transparent-base.css) - A transparent base for easily adding in backgrounds. [Embed](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/transparent-base.css)
+    - **example:** [no bg](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/trans-1.png), [bg](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/trans-2.png)
 - [ovyerus/discord-buttons-round.css](https://gist.github.com/Ovyerus/5574873c0725a8600150b5d963b20dcc) - Edits the account and voice panel buttons to be a pill shape and no dividers. [Embed](https://cdn.rawgit.com/Ovyerus/5574873c0725a8600150b5d963b20dcc/raw/b58568d1575f32333eacbfe5fc95c1701bcb516c/discord-buttons-round.css)
     - **example:** [preview](http://i.imgur.com/D9YoTGI.gif)
 - [PikaDude/Discord-Fade-Anims](https://github.com/PikaDude/Discord-Fade-Anims) - Adds fading animations to almost everything in Discord. [Embed](https://cdn.rawgit.com/PikaDude/Discord-Fade-Anims/master/Discord-Fade-Anims.css)
