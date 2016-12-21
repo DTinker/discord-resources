@@ -19,7 +19,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Themes
 
-- [AlexFlipnote/Discord_MaterialTheme](https://github.com/AlexFlipnote/Discord_MaterialTheme) - CSS that makes your Discord much better to look at [Embed](https://cdn.rawgit.com/zet4/1974d4f7fae92679ab1701a1431c34c7/raw/2eb99ea7c61739ac9e7b97a7728b23cf9e73d9c2/alexpls.css)
+- [AlexFlipnote/Discord_MaterialTheme](https://github.com/AlexFlipnote/Discord_MaterialTheme) - CSS that makes your Discord much better to look at [Embed](https://rawgit.com/AlexFlipnote/Discord_MaterialTheme/master/theme.css)
     - **Screenshots:** [Codeblocks](https://owo.whats-th.is/8a0d03.png), [General](https://owo.whats-th.is/66a974.png)
 - [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK. [Embed](https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
     - **Screenshots:** [Preview](https://github.com/jakeoid/Discord-Adapta/blob/master/jake_screenshot.png?raw=true)
