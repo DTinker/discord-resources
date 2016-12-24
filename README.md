@@ -19,7 +19,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Themes
 
-    - **Screenshots:** [Codeblocks](https://owo.whats-th.is/8a0d03.png), [General](https://owo.whats-th.is/66a974.png)
 - [eye-sigil/Discord-Prism](https://github.com/eye-sigil/Discord-Prism) - A transparent glass-like theme for Discord with support for your own background. [Embed](https://rawgit.com/eye-sigil/Discord-Prism/master/prism.css)
     - **Screenshots:** [Preview](https://i.stole-a-me.me/f27b99.png)
 - [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK. [Embed](https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
