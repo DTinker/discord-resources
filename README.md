@@ -27,6 +27,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **Screenshots/Videos:** [General](https://owo.whats-th.is/4448cd.png) [Text Animations](https://owo.whats-th.is/1b5cfa.mp4) [Server/Channel Switching Animations](https://owo.whats-th.is/413259.mp4) [Other Animations](https://owo.whats-th.is/6838d3.mp4) [New Popup Menu](https://owo.whats-th.is/f0f9a8.png) [White Name Tag](https://owo.whats-th.is/e7628a.png) [Theme Dev Tag](https://owo.whats-th.is/9051e4.png) [Edited Pencil 1](https://owo.whats-th.is/43e5a1.png) [Edited Pencil 2](https://owo.whats-th.is/b0d46a.png)
 - [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit) - A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-SpacegrayEdit/master/spacegray-edit.css)
     - **Screenshots:** [Codeblocks](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-code.png), [General](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-all.png)
+- [SamuiNe/Crystalline-css](https://github.com/SamuiNe/Crystalline-css/) - A theme focused on using dark colors and transparent windows. Custom background is supported. [Embed](https://cdn.rawgit.com/SamuiNe/Crystalline-css/master/crystalline.css)
+    - **Screenshots:** [General](https://i.stole-a-me.me/ab1b25.png)
 - [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
     - **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
 
