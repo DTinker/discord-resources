@@ -58,7 +58,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [preview](https://a.pomf.cat/rlndis.png)
 - [TripingPC/discord-CSSes](https://github.com/TripingPC/discord-CSSes/blob/master/status-user-popout.css) - Applies various tweaks including a custom playing prefix, bigger nicknames and status-based background-color for user popout headers. [Embed](https://rawgit.com/TripingPC/discord-CSSes/master/status-user-popout.css)
     - **example:** [image](http://i.imgur.com/eJc5Eiu.png)
-
+- [Vap0r1ze/Discord-Nitro-Badges](https://github.com/Vap0r1ze/Discord-Nitro-Badges/blob/master/nitro.css) - Gives Nitro users cool badges. This only works for Nitro users with gif avatars, sorry. [Embed](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.css)
+    - **example:** [image](https://github.com/Vap0r1ze/Discord-Nitro-Badges/blob/master/nitro.png)
 
 ## Template
 
