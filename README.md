@@ -42,6 +42,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [right click menu](https://owo.whats-th.is/7da9ea.png)
 - [jakeoid/discord-emoji-anim](https://github.com/jakeoid/discord-emoji-anim) - Adds some basic animations for Emoji that are inside of your Discord client. [Embed](https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css)
     - **examples:** [mp4](https://owo.whats-th.is/193994.mp4), [animated gif](https://owo.whats-th.is/cb7afb.gif)
+- [jakeoid/no-white-theme.css](https://gist.github.com/jakeoid/f730f0b3e393a476688d94ad22c3d4cf) - Makes it so people who use the white theme of Discord are unable to use your style, with a fancy error message. [Embed](https://cdn.rawgit.com/jakeoid/f730f0b3e393a476688d94ad22c3d4cf/raw/17fb4282895a7dc6199ce2749cb2b56cfd45b45f/nowhitetheme.css)
+    - **example:** [preview](https://i.am-a.ninja/1c646a.png)
 - [jakeoid/semi-monokai.css](https://gist.github.com/jakeoid/33a608c852bf890e361523d245664882) - Adds the basic compatability for monokai formatting inside of Discord. [Embed](https://rawgit.com/jakeoid/33a608c852bf890e361523d245664882/raw/47c999e5c9b12cdf20d7d946f9b3493eff8eae1d/semi-monokai.css)
     - **examples:** [preview](https://owo.whats-th.is/090944.png)
 - [kanadeko/cozy-discord](https://github.com/kanadeko/cozy-discord) - Auto hides the server list and makes it appear again on hover. Also moves notifications/badges to the left and makes them pretty. [Embed](https://cdn.rawgit.com/kanadeko/cozy-discord/master/cozy-discord.css)
