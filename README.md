@@ -4,7 +4,7 @@ A curated list of awesome [Beautiful Discord](https://github.com/leovoel/Beautif
 
 This project attempts to make end-user life easier by requiring contributors to add working `@import`able Embed links.
 
-If you encounter a problem while installing [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/beautiful-discord-community/resources/wiki/Installing-BeautifulDiscord) for a more in-depth installation guide.
+If you encounter a problem while installing BeautifulDiscord, or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/beautiful-discord-community/resources/wiki/Installing-BeautifulDiscord) for a more in-depth installation guide.
 
 ### Contributing
 
