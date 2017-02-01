@@ -22,7 +22,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 ## Themes
 
 - [AlexFlipnote/Discord_Theme](https://github.com/AlexFlipnote/Discord_Theme) - A custom CSS made to change your discord style. [Embed](https://rawgit.com/AlexFlipnote/Discord_Theme/master/theme.css)
-    - **Screenshots:** [Preview]([Preview1](http://i.alexflipnote.xyz/1220630.png) [Preview2](http://i.alexflipnote.xyz/1220gkw.png) [Preview3](http://i.alexflipnote.xyz/1220G8I.png) [Preview4](http://i.alexflipnote.xyz/1220Vpe.png)
+    - **Screenshots:** [Preview1](https://i.mify.pw/5d0d65.png) [Preview2](https://i.mify.pw/62161e.png) [Preview3](https://i.mify.pw/155085.png) [Preview4](https://i.mify.pw/a21aa9.png) [Preview5](https://i.mify.pw/271422.png)
 - [eye-sigil/Discord-Prism](https://github.com/eye-sigil/Discord-Prism) - A transparent glass-like theme for Discord with support for your own background. [Embed](https://rawgit.com/eye-sigil/Discord-Prism/master/prism.css) 
     - **Screenshots:** [Preview](https://i.stole-a-me.me/f27b99.png)
 - [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK. [Embed](https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
