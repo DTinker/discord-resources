@@ -21,14 +21,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Themes
 
-- [AlexFlipnote/Discord_MaterialTheme](https://github.com/AlexFlipnote/Discord_MaterialTheme) - CSS that makes your Discord much better to look at. [Embed](https://rawgit.com/AlexFlipnote/Discord_MaterialTheme/master/theme.css)
-    - **Screenshots:** [Preview1](http://i.alexflipnote.xyz/1220630.png) [Preview2](http://i.alexflipnote.xyz/1220gkw.png) [Preview3](http://i.alexflipnote.xyz/1220G8I.png) [Preview4](http://i.alexflipnote.xyz/1220Vpe.png)
-- [eye-sigil/Discord-Prism](https://github.com/eye-sigil/Discord-Prism) - A transparent glass-like theme for Discord with support for your own background. [Embed](https://rawgit.com/eye-sigil/Discord-Prism/master/prism.css)
+- [AlexFlipnote/Discord_MaterialTheme](https://github.com/AlexFlipnote/Discord_Theme) - A custom CSS made to change your discord style. [Embed](https://rawgit.com/AlexFlipnote/Discord_Theme/master/theme.css)
+    - **Screenshots:** [Preview]([Preview1](http://i.alexflipnote.xyz/1220630.png) [Preview2](http://i.alexflipnote.xyz/1220gkw.png) [Preview3](http://i.alexflipnote.xyz/1220G8I.png) [Preview4](http://i.alexflipnote.xyz/1220Vpe.png)
+- [eye-sigil/Discord-Prism](https://github.com/eye-sigil/Discord-Prism) - A transparent glass-like theme for Discord with support for your own background. [Embed](https://rawgit.com/eye-sigil/Discord-Prism/master/prism.css) 
     - **Screenshots:** [Preview](https://i.stole-a-me.me/f27b99.png)
 - [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK. [Embed](https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
     - **Screenshots:** [Preview](https://github.com/jakeoid/Discord-Adapta/blob/master/jake_screenshot.png?raw=true)
-- [LewisTehMinerz/BootyfulDiscord](https://github.com/LewisTehMinerz/BootyfulDiscord) - A collection of things. | Theme based on TheBITLINK's Discord-Adapta, including most of the snippets. [Embed](https://cdn.rawgit.com/LewisTehMinerz/BootyfulDiscord/master/BootyfulDiscord.theme.css)
-    - **Screenshots/Videos:** [General](https://owo.whats-th.is/4448cd.png), [Text Animations](https://owo.whats-th.is/1b5cfa.mp4), [Server/Channel Switching Animations](https://owo.whats-th.is/413259.mp4), [Other Animations](https://owo.whats-th.is/6838d3.mp4), [New Popup Menu](https://owo.whats-th.is/f0f9a8.png), [White Name Tag](https://owo.whats-th.is/e7628a.png), [Theme Dev Tag](https://owo.whats-th.is/9051e4.png), [Edited Pencil 1](https://owo.whats-th.is/43e5a1.png), [Edited Pencil 2](https://owo.whats-th.is/b0d46a.png)
 - [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit) - A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-SpacegrayEdit/master/spacegray-edit.css)
     - **Screenshots:** [Codeblocks](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-code.png), [General](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-all.png)
 - [SamuiNe/Crystalline-css](https://github.com/SamuiNe/Crystalline-css/) - Crystalline is a Beautiful Discord theme focused on using non-rounded edges, dark colors, and transparent windows. Custom background is supported. [Embed](https://rawgit.com/SamuiNe/Crystalline-css/master/crystalline.css)
