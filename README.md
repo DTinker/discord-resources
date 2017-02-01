@@ -21,7 +21,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Themes
 
-- [AlexFlipnote/Discord_MaterialTheme](https://github.com/AlexFlipnote/Discord_Theme) - A custom CSS made to change your discord style. [Embed](https://rawgit.com/AlexFlipnote/Discord_Theme/master/theme.css)
+- [AlexFlipnote/Discord_Theme](https://github.com/AlexFlipnote/Discord_Theme) - A custom CSS made to change your discord style. [Embed](https://rawgit.com/AlexFlipnote/Discord_Theme/master/theme.css)
     - **Screenshots:** [Preview]([Preview1](http://i.alexflipnote.xyz/1220630.png) [Preview2](http://i.alexflipnote.xyz/1220gkw.png) [Preview3](http://i.alexflipnote.xyz/1220G8I.png) [Preview4](http://i.alexflipnote.xyz/1220Vpe.png)
 - [eye-sigil/Discord-Prism](https://github.com/eye-sigil/Discord-Prism) - A transparent glass-like theme for Discord with support for your own background. [Embed](https://rawgit.com/eye-sigil/Discord-Prism/master/prism.css) 
     - **Screenshots:** [Preview](https://i.stole-a-me.me/f27b99.png)
