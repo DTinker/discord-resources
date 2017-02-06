@@ -32,7 +32,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [SamuiNe/Crystalline-css](https://github.com/SamuiNe/Crystalline-css/) - Crystalline is a Beautiful Discord theme focused on using non-rounded edges, dark colors, and transparent windows. Custom background is supported. [Embed](https://rawgit.com/SamuiNe/Crystalline-css/master/crystalline.css)
     - **Screenshots:** [General](https://i.stole-a-me.me/ab1b25.png)
 - [SnazzyPine25/Skype-Theme](https://github.com/SnazzyPine25/BeautifulDiscordThemes#skype) - Theme based on Skype and Skype Preview. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordThemes/master/skype.css)
-    - **Screenshots:** [Dark General](http://i.imgur.com/qDhLz3n.png), [Light General](http://i.imgur.com/QGBiqxp.png)
+    - **Screenshots:** [Dark General](http://i.imgur.com/qDhLz3n.png), [Light General](http://i.imgur.com/QGBiqxp.png), [Calls](http://i.imgur.com/QArE2Me.png), [Dark AutoComplete](http://i.imgur.com/v4T8UdY.png), [Light AutoComplete](http://i.imgur.com/mdAeoMA.png)
 - [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
     - **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
 
