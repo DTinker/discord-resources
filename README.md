@@ -65,7 +65,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [PikaDude/Discord-Fade-Anims](https://github.com/PikaDude/Discord-Fade-Anims) - Adds fading animations to almost everything in Discord. [Embed](https://cdn.rawgit.com/PikaDude/Discord-Fade-Anims/master/Discord-Fade-Anims.css)
     - **example:** [channel change](https://owo.whats-th.is/0ac076.gif), [user profile](https://owo.whats-th.is/f68cfb.gif)
 - [Ratismal/pink-hljs](https://github.com/Ratismal/pink-hljs) - Makes codeblocks pretty and pink! [Embed](https://cdn.rawgit.com/ratismal/pink-hljs/master/pink.css)
-    - **example:** [Animated Preview](https://camo.githubusercontent.com/a1a37776d303aad9c65ac27ab7d3a515f623b09b/68747470733a2f2f7374757069646361742e6d6f652f63617431323330684c54332e676966)
+    - **example:** [Animated Preview](https://requires.discord.gold/c55186.gif)
 - [SnazzyPine25/DarkFaders](https://github.com/SnazzyPine25/BeautifulDiscordSnippets#darkfaders) - Applies animation and tweaks to tooltips. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordSnippets/master/Tooltips/DarkFaders.css)
     - **example:** [Animated Preview](http://i.imgur.com/AaUWFVu.png)
 - [SnazzyPine25/Windows-10-Context-Menu](https://github.com/SnazzyPine25/BeautifulDiscordSnippets#cm/windows10) - Styles Context Menus after Windows 10. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordSnippets/master/ContextMenu/Windows10.css)
