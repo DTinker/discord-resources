@@ -35,6 +35,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **Screenshots:** [Dark General](http://i.imgur.com/qDhLz3n.png), [Light General](http://i.imgur.com/QGBiqxp.png), [Calls](http://i.imgur.com/QArE2Me.png), [Dark AutoComplete](http://i.imgur.com/v4T8UdY.png), [Light AutoComplete](http://i.imgur.com/mdAeoMA.png)
 - [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
     - **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
+- [Blackhippy/HpstrDiscord]//github.com/Blackhippy/HpstrDiscord) - A blue-greenish custom css theme for discord. The css code is based off of [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit).
+    - **Screenshots:** ![General](https://a.safe.moe/WM1yv.png)[Embed](https://cdn.rawgit.com/Blackhippy/HpstrDiscord/774f3efa/discord.css)
 
 ## Useful snippets
 
