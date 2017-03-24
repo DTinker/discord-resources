@@ -23,7 +23,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 - [AlexFlipnote/Discord_Theme](https://github.com/AlexFlipnote/Discord_Theme) - A custom CSS made to change your discord style. [Embed](https://rawgit.com/AlexFlipnote/Discord_Theme/master/theme.css)
     - **Screenshots:** [Preview1](https://i.alexflipnote.xyz/03216U7.png), [Preview2](https://i.alexflipnote.xyz/0321WrV.png), [Preview3](https://i.alexflipnote.xyz/0321b1E.png), [Preview4](https://i.alexflipnote.xyz/0321ri8.png), [Preview5](https://i.alexflipnote.xyz/0321JXy.png)
- - [Blackhippy/HpstrDiscord](github.com/Blackhippy/HpstrDiscord) - A blue-greenish custom css theme for discord. The css code is based off of [LUModder SpacegrayEdit]: https://github.com/LUModder/. [Embed](https://cdn.rawgit.com/Blackhippy/HpstrDiscord/774f3efa/discord.css)
+ - [Blackhippy/HpstrDiscord](github.com/Blackhippy/HpstrDiscord) - A blue-greenish custom css theme for discord. The css code is based off of LUModder SpacegrayEdit https://github.com/LUModder/. [Embed](https://cdn.rawgit.com/Blackhippy/HpstrDiscord/774f3efa/discord.css)
     - **Screenshots:** [General](https://a.safe.moe/WM1yv.png) 
 - [eye-sigil/Discord-Prism](https://github.com/eye-sigil/Discord-Prism) - A transparent glass-like theme for Discord with support for your own background. [Embed](https://rawgit.com/eye-sigil/Discord-Prism/master/prism.css) 
     - **Screenshots:** [Preview](https://i.stole-a-me.me/f27b99.png)
