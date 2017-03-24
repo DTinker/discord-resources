@@ -22,7 +22,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 ## Themes
 
 - [AlexFlipnote/Discord_Theme](https://github.com/AlexFlipnote/Discord_Theme) - A custom CSS made to change your discord style. [Embed](https://rawgit.com/AlexFlipnote/Discord_Theme/master/theme.css)
-    - **Screenshots:** [Preview1](https://i.alexflipnote.xyz/03216U7.png), [Preview2](https://i.alexflipnote.xyz/0321WrV.png), [Preview3](https://i.alexflipnote.xyz/0321b1E.png), [Preview4](https://i.alexflipnote.xyz/0321ri8.png), [Preview5](https://i.alexflipnote.xyz/0321JXy.png)
+    - **Screenshots:** [Preview1](https://i.alexflipnote.xyz/03216U7.png), [Preview2](https://i.alexflipnote.xyz/0321WrV.png), [Preview3](https://i.alexflipnote.xyz/0321b1E.png), [Preview4](https://i.alexflipnote.xyz/0321ri8.png), [Preview5](https://i.alexflipnote.xyz/0321JXy.png)- [Blackhippy/HpstrDiscord]//github.com/Blackhippy/HpstrDiscord) - A blue-greenish custom css theme for discord. The css code is based off of [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit).
+    - **Screenshots:** [General](https://a.safe.moe/WM1yv.png) [Embed](https://cdn.rawgit.com/Blackhippy/HpstrDiscord/774f3efa/discord.css)
 - [eye-sigil/Discord-Prism](https://github.com/eye-sigil/Discord-Prism) - A transparent glass-like theme for Discord with support for your own background. [Embed](https://rawgit.com/eye-sigil/Discord-Prism/master/prism.css) 
     - **Screenshots:** [Preview](https://i.stole-a-me.me/f27b99.png)
 - [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK. [Embed](https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
@@ -35,8 +36,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **Screenshots:** [Dark General](http://i.imgur.com/qDhLz3n.png), [Light General](http://i.imgur.com/QGBiqxp.png), [Calls](http://i.imgur.com/QArE2Me.png), [Dark AutoComplete](http://i.imgur.com/v4T8UdY.png), [Light AutoComplete](http://i.imgur.com/mdAeoMA.png)
 - [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
     - **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
-- [Blackhippy/HpstrDiscord]//github.com/Blackhippy/HpstrDiscord) - A blue-greenish custom css theme for discord. The css code is based off of [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit).
-    - **Screenshots:** ![General](https://a.safe.moe/WM1yv.png)[Embed](https://cdn.rawgit.com/Blackhippy/HpstrDiscord/774f3efa/discord.css)
 
 ## Useful snippets
 
