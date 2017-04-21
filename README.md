@@ -29,10 +29,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **Screenshots:** [Preview](https://i.stole-a-me.me/f27b99.png)
 - [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK. [Embed](https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
     - **Screenshots:** [Preview](https://github.com/jakeoid/Discord-Adapta/blob/master/jake_screenshot.png?raw=true)
-- [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit) - A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-SpacegrayEdit/master/spacegray-edit.css)
-    - **Screenshots:** [Codeblocks](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-code.png), [General](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-all.png)
 - [LewisTehMinerz/BootyfulDiscord](https://github.com/LewisTehMinerz/BootyfulDiscord) - BootyfulDiscord.theme.css | A theme based off of AlexFlipnote's theme containing some snippets and some personal mods. [Embed](https://rawgit.com/LewisTehMinerz/BootyfulDiscord/master/BootyfulDiscord.theme.css)
    - **Screenshots:** [Code Blocks](https://discord.is-pretty.sexy/657c78.gif) [Background](https://discord.is-pretty.sexy/3b74c7.png) (Profiles)[https://discord.is-pretty.sexy/158506.png]
+- [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit) - A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-SpacegrayEdit/master/spacegray-edit.css)
+    - **Screenshots:** [Codeblocks](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-code.png), [General](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-all.png)
 - [SamuiNe/Crystalline-css](https://github.com/SamuiNe/Crystalline-css/) - Crystalline is a Beautiful Discord theme focused on using non-rounded edges, dark colors, and transparent windows. Custom background is supported. [Embed](https://rawgit.com/SamuiNe/Crystalline-css/master/crystalline.css)
     - **Screenshots:** [General](https://i.stole-a-me.me/ab1b25.png)
 - [SnazzyPine25/Skype-Theme](https://github.com/SnazzyPine25/BeautifulDiscordThemes#skype) - Theme based on Skype and Skype Preview. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordThemes/master/skype.css)
