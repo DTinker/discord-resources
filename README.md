@@ -34,7 +34,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [LUModder/Discord-SpacegrayEdit](https://github.com/LUModder/Discord-SpacegrayEdit) - A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/LUModder/Discord-SpacegrayEdit/master/spacegray-edit.css)
     - **Screenshots:** [Codeblocks](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-code.png), [General](https://github.com/LUModder/Discord-SpacegrayEdit/blob/master/theme-all.png)
 - [Oliyy/Material-Design-Discord](https://github.com/Oliyy/Material-Design-Discord) - An attempt at making a dark material design theme with lots of boxshadow. [Embed](https://rawgit.com/Oliyy/Material-Design-Discord/master/theme.css)
-    - **Screenshots:** [Preview](http://i.imgur.com/oSSjiVx.png)
+    - **Screenshots:** [Preview](http://i.imgur.com/3QTFpax.png)
 - [SamuiNe/Crystalline-css](https://github.com/SamuiNe/Crystalline-css/) - Crystalline is a Beautiful Discord theme focused on using non-rounded edges, dark colors, and transparent windows. Custom background is supported. [Embed](https://rawgit.com/SamuiNe/Crystalline-css/master/crystalline.css)
     - **Screenshots:** [General](https://i.stole-a-me.me/ab1b25.png)
 - [SnazzyPine25/Skype-Theme](https://github.com/SnazzyPine25/BeautifulDiscordThemes#skype) - Theme based on Skype and Skype Preview. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordThemes/master/skype.css)
