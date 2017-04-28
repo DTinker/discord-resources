@@ -67,7 +67,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [ovyerus/discord-buttons-round.css](https://gist.github.com/Ovyerus/5574873c0725a8600150b5d963b20dcc) - Edits the account and voice panel buttons to be a pill shape and no dividers. [Embed](https://cdn.rawgit.com/Ovyerus/5574873c0725a8600150b5d963b20dcc/raw/b58568d1575f32333eacbfe5fc95c1701bcb516c/discord-buttons-round.css)
     - **example:** [preview](http://i.imgur.com/D9YoTGI.gif)
 - [PikaDude/Discord-Fade-Anims](https://github.com/PikaDude/Discord-Fade-Anims) - Adds fading animations to almost everything in Discord. [Embed](https://cdn.rawgit.com/PikaDude/Discord-Fade-Anims/master/Discord-Fade-Anims.css)
-    - **example:** [channel change](https://owo.whats-th.is/0ac076.gif), [user profile](https://owo.whats-th.is/f68cfb.gif)
+    - **example:** [channel change](https://owo.whats-th.is/0ac076.gif), [user profile](https://owo.whats-th.is/f68cfb.gif), [quick switcher](https://totally-not.a-sketchy.site/5067c0.gif)
 - [Ratismal/pink-hljs](https://github.com/Ratismal/pink-hljs) - Makes codeblocks pretty and pink! [Embed](https://cdn.rawgit.com/ratismal/pink-hljs/master/pink.css)
     - **example:** [Animated Preview](https://requires.discord.gold/c55186.gif)
 - [SnazzyPine25/DarkFaders](https://github.com/SnazzyPine25/BeautifulDiscordSnippets#darkfaders) - Applies animation and tweaks to tooltips. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordSnippets/master/Tooltips/DarkFaders.css)
