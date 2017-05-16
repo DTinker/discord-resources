@@ -22,7 +22,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 ## Themes
 
 - [AlexFlipnote/Discord_Theme](https://github.com/AlexFlipnote/Discord_Theme) - A custom CSS made to change your discord style. [Embed](https://rawgit.com/AlexFlipnote/Discord_Theme/master/theme.css)
-    - **Screenshots:** [Preview 1](https://i.alexflipnote.xyz/0329N9C.png), [Preview 2](https://i.alexflipnote.xyz/0329Hgl.png), [Preview 3](https://i.alexflipnote.xyz/0329wBu.png), [Preview 4](https://i.alexflipnote.xyz/040689j.png), [Preview 5](https://i.alexflipnote.xyz/0329mne.png)
+    - **Screenshots:** [Preview 1](https://i.alexflipnote.xyz/2dafae.png) [Preview 2](https://i.alexflipnote.xyz/9ae69b.png) [Preview 3](https://i.alexflipnote.xyz/794d0c.png) [Preview 4](https://i.alexflipnote.xyz/bbc297.png) [Preview 5](https://i.alexflipnote.xyz/190934.png)
  - [Blackhippy/HpstrDiscord](https://github.com/Blackhippy/HpstrDiscord) - A blue-greenish custom css theme for discord. The css code is based off of LUModder SpacegrayEdit. [Embed](https://cdn.rawgit.com/Blackhippy/HpstrDiscord/774f3efa/discord.css)
     - **Screenshots:** [General](https://a.safe.moe/WM1yv.png) 
 - [eye-sigil/Discord-Prism](https://github.com/eye-sigil/Discord-Prism) - A transparent glass-like theme for Discord with support for your own background. [Embed](https://rawgit.com/eye-sigil/Discord-Prism/master/prism.css) 
@@ -67,7 +67,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [ovyerus/discord-buttons-round.css](https://gist.github.com/Ovyerus/5574873c0725a8600150b5d963b20dcc) - Edits the account and voice panel buttons to be a pill shape and no dividers. [Embed](https://cdn.rawgit.com/Ovyerus/5574873c0725a8600150b5d963b20dcc/raw/b58568d1575f32333eacbfe5fc95c1701bcb516c/discord-buttons-round.css)
     - **example:** [preview](http://i.imgur.com/D9YoTGI.gif)
 - [PikaDude/Discord-Fade-Anims](https://github.com/PikaDude/Discord-Fade-Anims) - Adds fading animations to almost everything in Discord. [Embed](https://cdn.rawgit.com/PikaDude/Discord-Fade-Anims/master/Discord-Fade-Anims.css)
-    - **example:** [channel change](https://owo.whats-th.is/0ac076.gif), [user profile](https://owo.whats-th.is/f68cfb.gif)
+    - **example:** [channel change](https://owo.whats-th.is/0ac076.gif), [user profile](https://owo.whats-th.is/f68cfb.gif), [quick switcher](https://totally-not.a-sketchy.site/5067c0.gif)
 - [Ratismal/pink-hljs](https://github.com/Ratismal/pink-hljs) - Makes codeblocks pretty and pink! [Embed](https://cdn.rawgit.com/ratismal/pink-hljs/master/pink.css)
     - **example:** [Animated Preview](https://requires.discord.gold/c55186.gif)
 - [SnazzyPine25/DarkFaders](https://github.com/SnazzyPine25/BeautifulDiscordSnippets#darkfaders) - Applies animation and tweaks to tooltips. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordSnippets/master/Tooltips/DarkFaders.css)
