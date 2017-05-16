@@ -8,11 +8,11 @@ import (
 	"strings"
 	"testing"
 
+	"context"
 	"net/http"
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/aymerick/douceur/parser"
 	"github.com/russross/blackfriday"
 )
 
@@ -109,12 +109,6 @@ func checkEmbeds(t *testing.T, s *goquery.Selection) {
 	})
 }
 
-var (
-	httpClient = &http.Client{
-		Timeout: 20 * time.Second,
-	}
-)
-
 func checkEmbed(t *testing.T, embed *goquery.Selection) {
 	if embed.Text() != "Embed" {
 		t.Errorf("expected 'Embed' but actual is '%v'", embed)
@@ -127,21 +121,20 @@ func checkEmbed(t *testing.T, embed *goquery.Selection) {
 	if err != nil {
 		t.Fatalf("failed to make request to %s: %s", url, err.Error())
 	}
-	rsp, err := httpClient.Do(req)
-	defer rsp.Body.Close()
+	ctx, cancel := context.WithTimeout(req.Context(), 5*time.Second)
+	defer cancel()
+	rsp, err := http.DefaultClient.Do(req.WithContext(ctx))
 	if err != nil {
 		t.Fatalf("failed to perform request to %s: %s", url, err.Error())
 	}
 	conttype := rsp.Header.Get("Content-Type")
 	if !strings.Contains(conttype, "text/css") {
+		rsp.Body.Close()
 		t.Fatalf("expected content type to contain 'text/css' but actual is '%s' ", conttype)
 	}
-	body, err := ioutil.ReadAll(rsp.Body)
+	_, err = ioutil.ReadAll(rsp.Body)
+	rsp.Body.Close()
 	if err != nil {
 		t.Fatalf("failed to obtain content: %s", err.Error())
-	}
-	_, err = parser.Parse(string(body))
-	if err != nil {
-		t.Errorf("css validation of embed failed: %s", err.Error())
 	}
 }
