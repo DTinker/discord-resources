@@ -90,3 +90,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 ## Template
 
 `* [username/repo_name](link_to_repo) - short_description [Embed](https://cdn.rawgit.com/...)`
+
+### Disclaimer
+
+Our aim is to run this community as transparently as possible, in spite of recent events and subsequently being removed from the main repository, we, as people who run this repository want to state the following.
+
+- **NO**, We are in no way officially affiliated/partnered with the BeautifulDiscord resource itself.
+- **YES**, This is community aggregated however the content is reflective of the creator and not this community itself.
+- **NO**, You shouldn't contact the developers of BeautifulDiscord (Danny/Leovoel) about this community/repo.
+- **YES**, Do contact a repository staff member if you believe something in this group specifically infringes on something you've created.
