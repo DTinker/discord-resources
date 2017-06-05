@@ -86,7 +86,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [image](http://i.imgur.com/eJc5Eiu.png)
 - [Vap0r1ze/Discord-Nitro-Badges](https://github.com/Vap0r1ze/Discord-Nitro-Badges/blob/master/nitro.css) - Gives Nitro users cool badges. This only works for Nitro users with gif avatars, sorry. [Embed](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.css)
     - **example:** [image](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.png)
-
+- [DracoZ12/TotalDarkMode](https://github.com/DracoZ12/TotalDarkMode) - Adds dark mode (mostly) everywhere. [Embed](https://rawgit.com/DracoZ12/TotalDarkMode/master/theme.css)
+    - **example:** [image1](https://a.yiff.moe/lioefo.png) [image2](https://a.yiff.moe/pukmkp.png)
 ## Template
 
 `* [username/repo_name](link_to_repo) - short_description [Embed](https://cdn.rawgit.com/...)`
