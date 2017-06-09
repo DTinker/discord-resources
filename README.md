@@ -44,6 +44,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Useful snippets
 
+- [benzarr410/beautifuldiscord-nametags](https://github.com/benzarr410/beautifuldiscord-nametags) - Allows you to add custom nametags to people. [Embed](https://cdn.rawgit.com/benzarr410/beautifuldiscord-nametags/master/examplenametag.css)
+    - **example:** [image](https://github.ratelimited.me/bc9a19.png)
 - [bubbie/classic-discord-profile](https://github.com/bubbie/classic-discord-profile) - Re-introduces the classic user profile before it became all white and ugly. [Embed](https://cdn.rawgit.com/bubbie/classic-discord-profile/master/stylesheet.css)
     - **example:** [image](https://owo.whats-th.is/ba3f27.png)
 - [jakeoid/disccord](https://github.com/jakeoid/disccord) - adds the kikke, banne, mutte, deaffe, delette options to your discord client. [Embed](https://cdn.rawgit.com/jakeoid/disccord/master/disccord.css)
