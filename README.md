@@ -1,20 +1,20 @@
-# Beautiful Discord Community - Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/beautiful-discord-community/resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
+# DTinker - Discord Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/dtinker/discord-resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
 
-A curated list of awesome [Beautiful Discord](https://github.com/leovoel/BeautifulDiscord) resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome resources to customize your Discord experience. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
-This project attempts to make end-user life easier by requiring contributors to add working `@import`able Embed links.
+This project attempts to make end-user life easier by requiring contributors to add working `@import`able embed links.
 
-If you encounter a problem while installing BeautifulDiscord, or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/beautiful-discord-community/resources/wiki/Installing-BeautifulDiscord) for a more in-depth installation guide.
+If you encounter a problem while installing a discord mod, or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/DTinker/discord-resources/wiki/Installing-Modifications) for a more in-depth installation guide.
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/beautiful-discord-community/resources/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/beautiful-discord-community/resources/graphs/contributors); you rock!
+Please take a look at the [contribution guidelines](https://github.com/DTinker/discord-resources/blob/master/CONTRIBUTING.md) before you contribute. Thanks to all [contributors](https://github.com/DTinker/discord-resources/graphs/contributors), you rock!
 
-#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
+#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file, instead of proposing removal. Thank you!*
 
 ### Contents
 
-- [Beautiful Discord Community - Resources](#beautiful-discord-community---themes-)
+- [DTinker - Discord Resources](#dtinker---discord-resources)
     - [Themes](#themes)
     - [Useful snippets](#useful-snippets)
 - [Template](#template)
@@ -93,12 +93,3 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 ## Template
 
 `* [username/repo_name](link_to_repo) - short_description [Embed](https://cdn.rawgit.com/...)`
-
-### Disclaimer
-
-Our aim is to run this community as transparently as possible, in spite of recent events and subsequently being removed from the main repository, we, as people who run this repository want to state the following.
-
-- **NO**, We are in no way officially affiliated/partnered with the BeautifulDiscord resource itself.
-- **YES**, This is community aggregated however the content is reflective of the creator and not this community itself.
-- **NO**, You shouldn't contact the developers of BeautifulDiscord (Danny/Leovoel) about this community/repo.
-- **YES**, Do contact a repository staff member if you believe something in this group specifically infringes on something you've created.
