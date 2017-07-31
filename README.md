@@ -2,15 +2,15 @@
 
 A curated list of awesome resources to customize your Discord experience. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
-This project attempts to make end-user life easier by requiring contributors to add working `@import`able Embed links.
+This project attempts to make end-user life easier by requiring contributors to add working `@import`able embed links.
 
 If you encounter a problem while installing a discord mod, or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/DTinker/discord-resources/wiki/Installing-Modifications) for a more in-depth installation guide.
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/DTinker/discord-resources/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/DTinker/discord-resources/graphs/contributors); you rock!
+Please take a look at the [contribution guidelines](https://github.com/DTinker/discord-resources/blob/master/CONTRIBUTING.md) before you contribute. Thanks to all [contributors](https://github.com/DTinker/discord-resources/graphs/contributors), you rock!
 
-#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
+#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file, instead of proposing removal. Thank you!*
 
 ### Contents
 
