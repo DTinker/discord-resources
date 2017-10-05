@@ -1,4 +1,4 @@
-# DTinker - Discord Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/dtinker/discord-resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
+# DTinker - Discord Resources [![Build Status](https://travis-ci.org/DTinker/discord-resources.svg?branch=master)](https://travis-ci.org/DTinker/discord-resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
 
 A curated list of awesome resources to customize your Discord experience. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
