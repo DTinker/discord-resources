@@ -48,6 +48,8 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
     - **example:** [image](https://github.ratelimited.me/bc9a19.png)
 - [bubbie/classic-discord-profile](https://github.com/bubbie/classic-discord-profile) - Re-introduces the classic user profile before it became all white and ugly. [Embed](https://cdn.rawgit.com/bubbie/classic-discord-profile/master/stylesheet.css)
     - **example:** [image](https://owo.whats-th.is/ba3f27.png)
+- [DracoZ12/TotalDarkMode](https://github.com/DracoZ12/TotalDarkMode) - Adds dark mode (mostly) everywhere. [Embed](https://rawgit.com/DracoZ12/TotalDarkMode/master/theme.css)
+    - **example:** [image1](https://a.yiff.moe/lioefo.png) [image2](https://a.yiff.moe/pukmkp.png)
 - [endreman0/discord-custom/noappbar](https://github.com/endreman0/discord-custom/blob/master/noappbar.css) - Expand the app bar, with the Discord wordmark and minimize/maximize/exit buttons, but hide it unless you hover at the top of the screen. [Embed](https://cdn.rawgit.com/endreman0/discord-custom/6f13f8c7b508648304733da3ec071a65c2a8eb9e/noappbar.css)
     - **example:** [hidden](https://i.imgur.com/P5aTKCu.png), [shown](https://i.imgur.com/VQdizxf.png)
 - [jakeoid/disccord](https://github.com/jakeoid/disccord) - adds the kikke, banne, mutte, deaffe, delette options to your discord client. [Embed](https://cdn.rawgit.com/jakeoid/disccord/master/disccord.css)
@@ -90,8 +92,6 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
     - **example:** [image](http://i.imgur.com/eJc5Eiu.png)
 - [Vap0r1ze/Discord-Nitro-Badges](https://github.com/Vap0r1ze/Discord-Nitro-Badges/blob/master/nitro.css) - Gives Nitro users cool badges. This only works for Nitro users with gif avatars, sorry. [Embed](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.css)
     - **example:** [image](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.png)
-- [DracoZ12/TotalDarkMode](https://github.com/DracoZ12/TotalDarkMode) - Adds dark mode (mostly) everywhere. [Embed](https://rawgit.com/DracoZ12/TotalDarkMode/master/theme.css)
-    - **example:** [image1](https://a.yiff.moe/lioefo.png) [image2](https://a.yiff.moe/pukmkp.png)
 ## Template
 
 `* [username/repo_name](link_to_repo) - short_description [Embed](https://cdn.rawgit.com/...)`
