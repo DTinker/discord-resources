@@ -48,6 +48,8 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
     - **example:** [image](https://github.ratelimited.me/bc9a19.png)
 - [bubbie/classic-discord-profile](https://github.com/bubbie/classic-discord-profile) - Re-introduces the classic user profile before it became all white and ugly. [Embed](https://cdn.rawgit.com/bubbie/classic-discord-profile/master/stylesheet.css)
     - **example:** [image](https://owo.whats-th.is/ba3f27.png)
+- [endreman0/discord-custom/noappbar](https://github.com/endreman0/discord-custom/blob/master/noappbar.css) - Expand the app bar, with the Discord wordmark and minimize/maximize/exit buttons, but hide it unless you hover at the top of the screen. [Embed](https://cdn.rawgit.com/endreman0/discord-custom/6f13f8c7b508648304733da3ec071a65c2a8eb9e/noappbar.css)
+    - **example:** [hidden](https://i.imgur.com/P5aTKCu.png), [shown](https://i.imgur.com/VQdizxf.png)
 - [jakeoid/disccord](https://github.com/jakeoid/disccord) - adds the kikke, banne, mutte, deaffe, delette options to your discord client. [Embed](https://cdn.rawgit.com/jakeoid/disccord/master/disccord.css)
     - **example:** [right click menu](https://owo.whats-th.is/7da9ea.png)
 - [jakeoid/discord-emoji-anim](https://github.com/jakeoid/discord-emoji-anim) - Adds some basic animations for Emoji that are inside of your Discord client. [Embed](https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css)
