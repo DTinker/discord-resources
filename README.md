@@ -46,8 +46,6 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
 
 - [benzarr410/beautifuldiscord-nametags](https://github.com/benzarr410/beautifuldiscord-nametags) - Allows you to add custom nametags to people. [Embed](https://cdn.rawgit.com/benzarr410/beautifuldiscord-nametags/master/examplenametag.css)
     - **example:** [image](https://github.ratelimited.me/bc9a19.png)
-- [bubbie/classic-discord-profile](https://github.com/bubbie/classic-discord-profile) - Re-introduces the classic user profile before it became all white and ugly. [Embed](https://cdn.rawgit.com/bubbie/classic-discord-profile/master/stylesheet.css)
-    - **example:** [image](https://owo.whats-th.is/ba3f27.png)
 - [DracoZ12/TotalDarkMode](https://github.com/DracoZ12/TotalDarkMode) - Adds dark mode (mostly) everywhere. [Embed](https://rawgit.com/DracoZ12/TotalDarkMode/master/theme.css)
     - **example:** [image1](https://a.yiff.moe/lioefo.png) [image2](https://a.yiff.moe/pukmkp.png)
 - [endreman0/discord-custom/noappbar](https://github.com/endreman0/discord-custom/blob/master/noappbar.css) - Expand the app bar, with the Discord wordmark and minimize/maximize/exit buttons, but hide it unless you hover at the top of the screen. [Embed](https://cdn.rawgit.com/endreman0/discord-custom/6f13f8c7b508648304733da3ec071a65c2a8eb9e/noappbar.css)
@@ -86,8 +84,6 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
     - **example:** [markdown](http://i.imgur.com/hkpbkdn.png)
 - [SpoopySaitama/discord-css/striped-user-popout](https://github.com/SpoopySaitama/discord-css/blob/master/striped-user-popout.css) - Makes user profile popouts have an animated, striped background. [Embed](https://cdn.rawgit.com/SpoopySaitama/discord-css/master/striped-user-popout.css)
     - **example:** [animated](https://fat.gfycat.com/QueasyThankfulEchidna.gif)
-- [TriggerRimfire/discord-avatar-shadow.css](https://gist.github.com/TriggerRimfire/48b3303f4032fffd952c108260a059a4) - Adds a slight shadow effect to avatars. (more noticeable on themes with opacity) [Embed](https://cdn.rawgit.com/TriggerRimfire/48b3303f4032fffd952c108260a059a4/raw/1ff0f952a436a3e2b11ef2be4e3f67cd071a2d6b/discord-avatar-shadow.css)
-    - **example:** [preview](https://a.pomf.cat/rlndis.png)
 - [TripingPC/discord-CSSes](https://github.com/TripingPC/discord-CSSes/blob/master/status-user-popout.css) - Applies various tweaks including a custom playing prefix, bigger nicknames and status-based background-color for user popout headers. [Embed](https://rawgit.com/TripingPC/discord-CSSes/master/status-user-popout.css)
     - **example:** [image](http://i.imgur.com/eJc5Eiu.png)
 - [Vap0r1ze/Discord-Nitro-Badges](https://github.com/Vap0r1ze/Discord-Nitro-Badges/blob/master/nitro.css) - Gives Nitro users cool badges. This only works for Nitro users with gif avatars, sorry. [Embed](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.css)
