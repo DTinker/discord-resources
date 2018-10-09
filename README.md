@@ -66,8 +66,6 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
     - **example:** [no bg](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/trans-1.png), [bg](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/trans-2.png)
 - [martmists/Discord-DnD](https://github.com/martmists/Discord-DnD) - A snippet that adds the Dungeons and Dragons to the status list. [Embed](https://rawgit.com/martmists/discord-dnd/master/dnd.css)
     - **Screenshots:** [preview (Custom dark selector not included)](https://owo.whats-th.is/635d21.png)
-- [martmists/DiscordFonts](https://github.com/martmists/DiscordFonts) - A snippet that supplies fonts that look nice. [Embed](https://cdn.rawgit.com/martmists/DiscordFonts/master/DiscordFonts.css)
-    - **Screenshots:** [Codeblocks](https://owo.whats-th.is/42af8b.png), [Text](https://owo.whats-th.is/0c3939.png), [Channel list](https://owo.whats-th.is/a09f04.png), [Member List](https://owo.whats-th.is/25bc10.png), [Member Roles](https://owo.whats-th.is/2f07d2.png), [Embeds](https://owo.whats-th.is/b7f22b.png)
 - [ovyerus/discord-buttons-round.css](https://gist.github.com/Ovyerus/5574873c0725a8600150b5d963b20dcc) - Edits the account and voice panel buttons to be a pill shape and no dividers. [Embed](https://cdn.rawgit.com/Ovyerus/5574873c0725a8600150b5d963b20dcc/raw/b58568d1575f32333eacbfe5fc95c1701bcb516c/discord-buttons-round.css)
     - **example:** [preview](http://i.imgur.com/D9YoTGI.gif)
 - [PikaDude/Discord-Fade-Anims](https://github.com/PikaDude/Discord-Fade-Anims) - Adds fading animations to almost everything in Discord. [Embed](https://cdn.rawgit.com/PikaDude/Discord-Fade-Anims/master/Discord-Fade-Anims.css)
