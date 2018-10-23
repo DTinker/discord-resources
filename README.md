@@ -48,7 +48,7 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
     - **example:** [image](https://github.ratelimited.me/bc9a19.png)
 - [Cynosphere/Discord-ThemeSniplets/classic-embeds.css](https://github.com/Cynosphere/Discord-ThemeSniplets/blob/master/classic-embeds.css) - Classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/Cynosphere/Discord-ThemeSniplets/master/classic-embeds.css)
     - **example:** [preview](https://cdn.rawgit.com/Cynosphere/Discord-ThemeSniplets/master/classic-embeds.png)
-- [DracoZ12/TotalDarkMode](https://github.com/DracoZ12/TotalDarkMode) - Adds dark mode (mostly) everywhere. [Embed](https://rawgit.com/DracoZ12/TotalDarkMode/master/theme.css)
+- [DracoZ12/TotalDarkMode](https://github.com/DracoZ12/TotalDarkMode) - Adds dark mode (mostly) everywhere. [Embed](https://cdn.jsdelivr.net/gh/DracoZ12/TotalDarkMode@165cd0c988cdf87ffce613c6ec8cc519991e8bd8/theme.css)
     - **example:** [image1](https://a.yiff.moe/lioefo.png) [image2](https://a.yiff.moe/pukmkp.png)
 - [endreman0/discord-custom/noappbar](https://github.com/endreman0/discord-custom/blob/master/noappbar.css) - Expand the app bar, with the Discord wordmark and minimize/maximize/exit buttons, but hide it unless you hover at the top of the screen. [Embed](https://cdn.rawgit.com/endreman0/discord-custom/6f13f8c7b508648304733da3ec071a65c2a8eb9e/noappbar.css)
     - **example:** [hidden](https://i.imgur.com/P5aTKCu.png), [shown](https://i.imgur.com/VQdizxf.png)
