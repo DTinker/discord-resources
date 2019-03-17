@@ -22,7 +22,7 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
 ## Themes
 
 - [AlexFlipnote/Discord_Theme](https://github.com/AlexFlipnote/Discord_Theme) - A custom CSS made to change your discord style. [Embed](https://discordtheme.alexflipnote.xyz/theme.css)
-    - **Screenshots:** [Preview 1](https://i.alexflipnote.xyz/12cded.png) [Preview 2](https://i.alexflipnote.xyz/5eb82d.png) [Preview 3](https://i.alexflipnote.xyz/4f86b9.png) [Preview 4](https://i.alexflipnote.xyz/adccac.png)
+    - **Screenshots:** [Preview 1](https://i.alexflipnote.dev/77ukxvb.png) [Preview 2](https://i.alexflipnote.dev/7dEBUDA.png) [Preview 3](https://i.alexflipnote.dev/9eFXRVs.png) [Preview 4](https://i.alexflipnote.dev/6EuCjnZ.png)
 - [Blackhippy/HpstrDiscord](https://github.com/Blackhippy/HpstrDiscord) - A blue-greenish custom css theme for discord. The css code is based off of LUModder SpacegrayEdit. [Embed](https://cdn.rawgit.com/Blackhippy/HpstrDiscord/774f3efa/discord.css)
     - **Screenshots:** [General](https://a.safe.moe/WM1yv.png) 
 - [Cynosphere/Discord-SpacegrayEdit](https://github.com/Cynosphere/Discord-SpacegrayEdit) - A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/Cynosphere/Discord-SpacegrayEdit/master/spacegray-edit.css)
